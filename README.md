@@ -1,3 +1,5 @@
+### 프로젝트 상세 내용 Notion Link : 
+
 ### 프로젝트 개요
 
 ToDo List 앱은 SwiftUI와 Core Data를 사용하여 할 일을 관리할 수 있는 간단한 iOS 앱입니다.
